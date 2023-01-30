@@ -1,4 +1,3 @@
-#Simple IP-logger
+# Simple API-logger
 
-Logs your current IP and timestamps it.
-Developed for practice purposes, it's a one-liner in bash... 
+Logs the response of an arbitrary GET request as plain text and timestamps it.
